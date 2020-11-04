@@ -3,5 +3,5 @@ Get the OCEAN personality scores for any twitter celebrity or yourself. This Use
 
 
 # References
-https://github.com/nicknochnack
+https://github.com/nicknochnack <br>
 https://medium.com/taraaz/https-medium-com-taraaz-human-rights-implications-of-ibm-watsons-personality-insights-942413e81117
